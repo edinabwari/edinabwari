@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @edinabwari
+- 👋 Hi, I’m @edinabwari 🤗open-minded 🤩A friend 
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning front-end web development
+- 📧 edinakwambokabwari@gmail.com 
 
 <!---
 edinabwari/edinabwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
