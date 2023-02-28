@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edinabwari 🤗open-minded 🤩A friend 
+- 👋 Hi, I’m edinabwari 🤗open-minded 🤩A friend 
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning front-end web development and a bit of software engineering
 - 📧 edinakwambokabwari@gmail.com 
