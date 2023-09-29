@@ -1,6 +1,5 @@
 - 👋 Hi, I’m edinabwari 🤗open-minded 🤩A friend 
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning front-end web development and a bit of software engineering
+- 👀 I’m interested in software engineerin and  data science 
 - 📧 edinakwambokabwari@gmail.com 
 
 <!---
