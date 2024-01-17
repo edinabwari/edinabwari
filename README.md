@@ -1,5 +1,5 @@
-- 👋 Hi, I’m edinabwari 🤗open-minded 🤩A friend 
-- 👀 I’m interested in software engineerin and  data science 
+- 👋 Hi, I’m edina 🤗open-minded 🤩A friend 
+- 👀 I’m interested in software engineering and  data science 
 - 📧 edinakwambokabwari@gmail.com 
 
 <!---
