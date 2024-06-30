@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edina 🤗open-minded 🤩A friend 
 - 👀 I’m interested in DATA SCIENTIST | WEB DEVELOPER | MOBILE APPLICATION DEVELOPER | SOFTWARE ENGINEERING.
 - 📩 edinakwambokabwari@gmail.com
--  linkedin.com/in/edina-kwamboka-93b167254
+
 
 <!---
 edinabwari/edinabwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
