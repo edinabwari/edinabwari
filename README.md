@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Edina 🤗open-minded 🤩A friend 
-- 👀 I’m interested in DATA SCIENTIST | WEB DEVELOPER | MOBILE APPLICATION DEVELOPER.
+- 👀 DATA SCIENTIST | WEB DEVELOPER | MOBILE APPLICATION DEVELOPER.
 - 📩 edinakwambokabwari@gmail.com
 
 
